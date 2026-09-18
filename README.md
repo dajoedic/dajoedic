@@ -1,4 +1,4 @@
-# Servus, I'm David [🤙](https://emojiterra.com/call-me-hand/)
+# Servus, I'm David 🤙
 
 I'm a **Senior Data Scientist & Researcher** working on machine learning, dynamical systems and applied AI.
 
